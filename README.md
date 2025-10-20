@@ -1,6 +1,7 @@
 # Internship-Task-1
 This repository contains my submission for the first internship task as a Data Analyst Intern at Elevate Labs. The task involved cleaning and preprocessing of a superstore sales dataset.
 
+# Files
 It includes a raw dataset of superstore sales and a ipynb file after handling missing values, inconsistent data and Standardize column names and formats.
 traincsv : Contains the raw dataset provided for the task.
 Task1.ipynb` : Jupyter Notebook showing the data cleaning and preprocessing steps.
